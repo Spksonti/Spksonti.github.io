@@ -1,0 +1,16 @@
+name: "Shriman Sonti"
+navbar:
+  title: "Github Webiste"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Portfolio"
+      href: portfolio.html
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<spksonti@gmail.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/Spksonti/
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/shriman-sonti-ba8024214/
+      

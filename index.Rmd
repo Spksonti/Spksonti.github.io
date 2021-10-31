@@ -1,12 +1,32 @@
 ---
-title: "Lab3"
-author: "Shriman Sonti"
-date: "9/13/2021"
-output: html_document
+title: 'Github Website '
+pagetitle: 'Shriman Sonti'
+output: 
+  html_document: 
+    css: "styles.css"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+```{R echo=F, eval=F}
+#to build this website into the _site directory, run
+rmarkdown::site_generator()
 ```
+ 
+<img src="35A78747-9120-4DE5-9430-2E39BC994428.jpeg" style=width:40% class="img-circle">
 
-##Placeholder for website
+<br>
+
+# Welcome! I am Shriman Sonti. 
+  
+</br>
+
+##### I am a second year computer science major studying at the University of Texas at Austin.
+
+##### I enjoy going to the gym, videogames, and playing the saxophone.
+
+##### I currently march with the saxophone section in the longhorn marching band.  
+
+##### I dabble in powerlifting as well!
+
+##### I have many coding projects they are in this link [here](/portfolio)!
+
+---
