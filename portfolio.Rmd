@@ -15,12 +15,12 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 
 <br>
 
-- <i class="fa fa-chart-line"> </i> [Project 1: 2019 and 2020 Rushing leaders](https://spksonti.github.io/project1/)
+- <i class="fa fa-chart-line"> </i> [Project 1: 2019 and 2020 Rushing statistics](https://spksonti.github.io/project1/)
 
     - This was my first project for my data science class and it was an analysis on the rushing 
     leaders in the NFL from the years of 2019 and 2020. It utilized dplyr, kable, ggplot2, and tidyverse 
     to handle data wrangling, data tidying, and graph creating. Very interesting discoveries were made
-    throughout the project, please take a look!
+    throughout the project, take a look!
 
 <br>
 
