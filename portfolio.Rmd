@@ -24,7 +24,7 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 
 <br>
 
-- <i class="fa fa-chart-pie"> </i> [Project 2: 2019 and 2020 Rushing classifications and predictions](https://spksonti.github.io/project2)
+- <i class="fa fa-chart-pie"> </i> [Project 2: 2019 and 2020 Rushing classifications and predictions](https://spksonti.github.io/project2/)
 
     - This was the second project I did in my data science class and my second project on the rushing leaders
     in the NFL from the years of 2019 and 2020. It utilized linear regression and prediction, linear classification, kNN, 
