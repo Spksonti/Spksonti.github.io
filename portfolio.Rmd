@@ -24,6 +24,10 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 
 <br>
 
-- <i class="fa fa-chart-pie"> </i> [Project 2: Description](https://www.google.com)
+- <i class="fa fa-chart-pie"> </i> [Project 2: 2019 and 2020 Rushing classifications and predictions](Spksonti.github.io/project2)
 
-    - Longer Description
+    - This was the second project I did in my data science class and my second project on the rushing leaders
+    in the NFL from the years of 2019 and 2020. It utilized linear regression, linear classification, kNN, 
+    CV k-fold classification, and a bit of python with the reticulate library. I found some very interesting
+    connections so if you're an NFL fan please take a look! If not, still take a look, you never know what you
+    might find!
